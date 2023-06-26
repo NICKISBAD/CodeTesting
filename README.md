@@ -7,5 +7,6 @@
  
 + **Robot-ify** -- Another piece of code that makes your text robotic with symbols and odd, randomized capitalization (Originally uploaded on [Replit](https://replit.com/@JiverNot/Robot-ify?v=1).)
 
+- **Small Textifier** -- A luascript that makes your text impossibly small, useful for whatever you need small text for (Originally uploaded on [Replit](https://replit.com/@JiverNot/SmallTextifier?v=1))
 
 **more to come**
