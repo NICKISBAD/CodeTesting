@@ -9,4 +9,6 @@
 
 - **Small Textifier** -- A luascript that makes your text impossibly small, useful for whatever you need small text for (Originally uploaded on [Replit](https://replit.com/@JiverNot/SmallTextifier?v=1))
 
+- **Counter** -- Luascript that counts to your desired number with a delay (delay can be turned off). Is mainly for misc use (Originally Uploaded on [Replit](https://replit.com/@JiverNot/Counter?v=1))
+
 **more to come**
