@@ -1,5 +1,5 @@
 # Hello!
- ## I'm NICKISBAD, more formally: Nick or Jiver (preferably Jiver please :P) This is my codetesting repostitory. Where i test different code and languages.
+ ## I'm NICKISBAD, more formally: Nick or Jiver (preferably Jiver please :P) This is my codetesting repostitory. Where i test different code and languages. (check me out on [replit](repl.it) aswellif you feel like it!
 
 # List of things i've uploaded here: **(as of 25/6/23)**
 
