@@ -13,4 +13,6 @@
 
 - **Counter** -- Luascript that counts to your desired number with a delay (delay can be turned off). Is mainly for misc use (Originally Uploaded on [Replit](https://replit.com/@JiverNot/Counter?v=1))
 
+- **Dice Roll** -- Luascript that rolls a dice in whatever requirements you want (Number of rolls, and dice sides) Occasionally reads numbers wrong (Originally Uploaded on [Replit](https://replit.com/@JiverNot/Nicks-Sub-Standard-Dice-Roll?v=1)) 
+
 **more to come**
