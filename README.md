@@ -11,8 +11,10 @@
 
 - **Small Textifier** -- A luascript that makes your text impossibly small, useful for whatever you need small text for (Originally uploaded on [Replit](https://replit.com/@JiverNot/SmallTextifier?v=1))
 
-- **Counter** -- Luascript that counts to your desired number with a delay (delay can be turned off). Is mainly for misc use (Originally Uploaded on [Replit](https://replit.com/@JiverNot/Counter?v=1))
+- **Counter** -- Luascript that counts to your desired number with a delay (delay can be turned off). Is mainly for misc use (Originally uploaded on [Replit](https://replit.com/@JiverNot/Counter?v=1))
 
-- **Dice Roll** -- Luascript that rolls a dice in whatever requirements you want (Number of rolls, and dice sides) Occasionally reads numbers wrong (Originally Uploaded on [Replit](https://replit.com/@JiverNot/Nicks-Sub-Standard-Dice-Roll?v=1)) 
+- **Dice Roll** -- Luascript that rolls a dice in whatever requirements you want (Number of rolls, and dice sides) Occasionally reads numbers wrong (Originally uploaded on [Replit](https://replit.com/@JiverNot/Nicks-Sub-Standard-Dice-Roll?v=1))
+
+- **P-Gen (Password Generator)** -- SLIGHTLY more advanced luascript that uses a set of characters and a desired length to create a (maybe) secure password. (Originally uploaded on [Replit](https://replit.com/@JiverNot/PasswordGenerator?v=1))
 
 **more to come**
