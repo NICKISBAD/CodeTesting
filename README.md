@@ -17,4 +17,6 @@
 
 - **P-Gen (Password Generator)** -- SLIGHTLY more advanced luascript that uses a set of characters and a desired length to create a (maybe) secure password. (Originally uploaded on [Replit](https://replit.com/@JiverNot/PasswordGenerator?v=1))
 
+-  **P-GenV2 (Password Generator Revamped)** -- A newer (by 3 minutes) more secure password generator (different results each time :D) More symbol compatibility (Originally uploaded on [Replit](https://replit.com/@JiverNot/P-Genv2?v=1))
+
 **more to come**
