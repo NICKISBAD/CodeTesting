@@ -1,13 +1,9 @@
---Password Generator v2
-
 local chars = {
   "abcdefghijklmnopqrstuvwxyz",
   "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
   "0123456789",
   "!@#$%^&*()_+-={}[]|:;<>,.?/~",
   "ᴀʙᴄᴅᴇғɢʜɪᴊᴋʟᴍɴᴏᴘǫʀsᴛᴜᴠᴡxʏ",
-  "ᵃᵇᶜᵈᵉᶠᵍʰᶦʲᵏˡᵐⁿᵒᵖᵠʳˢᵗᵘᵛʷˣʸ",
-  "ₐᵦ𝒸𝒹ₑ𝒻𝓰ₕᵢⱼₖₗₘₙₒₚᵩᵣₛₜᵤᵥ𝓌ₓᵧ",
   " "
 }
 
@@ -29,6 +25,6 @@ local function generatePassword(length)
 end
 
 -- Usage
-local passwordLength = 20 -- Change the length as per your requirements
+local passwordLength = 30 -- Change the length as per your requirements
 local password = generatePassword(passwordLength)
 print("Generated Password: " .. password)
