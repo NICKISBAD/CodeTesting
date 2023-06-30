@@ -21,4 +21,6 @@
 
 -  **Hang-Man** -- A luascript that plays a simple game of hangman, you enter a word. and the other player enters their guesses (Originally uploaded on [Replit](https://replit.com/@JiverNot/Hangman-but-in-lua?v=1).)
 
+-  **NumberGuessing** -- A luascript in which you compete against CPU/B0T to see if you can guess It's number from 1 - 100! (Originally uploaded on [Replit](https://replit.com/@JiverNot/Number-Guessing-game?v=1).)
+
 **more to come**
