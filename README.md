@@ -23,4 +23,4 @@
 
 -  **NumberGuessing** -- A luascript in which you compete against CPU/B0T to see if you can guess It's number from 1 - 100! (Originally uploaded on [Replit](https://replit.com/@JiverNot/Number-Guessing-game?v=1).)
 
-**more to come**
+-  **BGYN - (Bot Guesses Your number) / Reverse NumberGuessing** -- A luascript in which good ol' CPU/B0T is guessing your number, Pick wisely! (Originally uploaded on [Replit](https://replit.com/@JiverNot/B0T-Guesses-your-Number-BGYN?v=1).)
