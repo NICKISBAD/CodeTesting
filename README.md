@@ -13,7 +13,7 @@
 
 - **Counter** -- Luascript that counts to your desired number with a delay (delay can be turned off). Is mainly for misc use (Originally uploaded on [Replit](https://replit.com/@JiverNot/Counter?v=1).)
 
-- **Dice Roll** -- Luascript that rolls a dice in whatever requirements you want (Number of rolls, and dice sides) Occasionally reads numbers wrong (Originally uploaded on [Replit](https://replit.com/@JiverNot/Nicks-Sub-Standard-Dice-Roll?v=1).)
+- **Dice Roll** -- Luascript that rolls a dice in whatever requirements you want (Number of rolls, and dice sides) Occasionally reads numbers wrong (Originally uploaded on [Replit]([https://replit.com/@JiverNot/Nicks-Sub-Standard-Dice-Roll?v=1]).)
 
 - **P-Gen (Password Generator)** -- SLIGHTLY more advanced luascript that uses a set of characters and a desired length to create a (maybe) secure password. (Originally uploaded on [Replit](https://replit.com/@JiverNot/PasswordGenerator?v=1).)
 
@@ -25,4 +25,4 @@
 
 -  **BGYN -- (Bot Guesses Your number) / Reverse NumberGuessing** -- A luascript in which good ol' CPU/B0T is guessing your number, Pick wisely! (Originally uploaded on [Replit](https://replit.com/@JiverNot/B0T-Guesses-your-Number-BGYN?v=1).)
 
-- ***2048!*** -- A luascript that asks for your number input, and multiplies it by 2 till it reaches 2048 or higher (beta), (Originally uploaded on [Replit](https://replit.com/@JiverNot/Multiplying-till-2048?v=1).)
+- ***2048!*** -- A luascript that asks for your number input, and multiplies it by 2 till it reaches 2048 or higher (beta), (Originally uploaded on [Replit](https://replit.com/@JiverNot/2048?v=1).)
