@@ -25,6 +25,6 @@
 
 -  **BGYN -- (Bot Guesses Your number) / Reverse NumberGuessing** -- A luascript in which good ol' CPU/B0T is guessing your number, Pick wisely! (Originally uploaded on [Replit](https://replit.com/@JiverNot/B0T-Guesses-your-Number-BGYN?v=1).)
 
-- ***2048!*** -- A luascript that asks for your number input, and multiplies it by 2 till it reaches 2048 or higher (beta), (Originally uploaded on [Replit](https://replit.com/@JiverNot/2048?v=1).)
+- ### ***2048!*** -- A luascript that asks for your number input, and multiplies it by 2 till it reaches 2048 or higher (beta), (Originally uploaded on [Replit](https://replit.com/@JiverNot/2048?v=1).)
 
 - **GTSW (Guess the scrambled word)** -- A luascript that has the player (you) answer a word scramble in which it takes one of the many words it's given and asks you to unscramble it with 3 tries. (Originally uploaded on [Replit](https://replit.com/@JiverNot/Guess-The-Scrambled-Word-GTSW?v=1).)
